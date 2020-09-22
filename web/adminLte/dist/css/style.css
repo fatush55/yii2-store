@@ -1,0 +1,12 @@
+.back_home:hover {
+    text-decoration: underline;
+    color: #0a73bb;
+}
+
+button.icon_brn .glyphicon  {
+    color: rgba(0,0,0,0.6);
+}
+
+button.icon_brn:hover .glyphicon {
+    color: rgba(0,0,0,0.4);
+}
